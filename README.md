@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link] (https://vikas924.github.io/leaderboard1/dist)
+- [Live Demo Link](https://vikas924.github.io/leaderboard1/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
