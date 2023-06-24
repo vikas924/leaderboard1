@@ -30,9 +30,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [leaderboard setup] <a name="about-project"></a>
+# 📖 [leaderboard hit api] <a name="about-project"></a>
 
-**[leaderboard setup]** In this project i setup webpack linters and add html for leaderboard with basic styling.
+**[leaderboard hit api]** In this project i added add function,display data from api and added styling .
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,14 +66,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Add webpack
-- Add linters
+- Fetch api data
+- Add data to api
+- display api data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( https://vikas924.github.io/Leaderboard/dist)
+- [Live Demo Link](https://vikas924.github.io/Leaderboard/dist)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +155,6 @@ GitHub Pages
 - Twitter: [@vikas410190](https://twitter.com/vikas410190)
 - LinkedIn: [Vikas Singh](https://www.linkedin.com/in/vikas-singh-586a07132/)
 
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add animations]**
@@ -176,7 +176,6 @@ If you like this project please follow me on github , twitter and also connect o
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for this exercise.
@@ -184,7 +183,6 @@ I would like to thank Microverse for this exercise.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
